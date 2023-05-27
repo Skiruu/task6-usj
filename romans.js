@@ -24,8 +24,7 @@ function init() {
   //TASK 7 Function
   gtag('event', 'getModeTitle',{
   
-    'MOdeTitle': getModeTitle 
-    
+    'MOdeTitle': getModeTitle
   }); 
 
   // Now, the convertion operation does only perform the operation. 
