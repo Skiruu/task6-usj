@@ -21,11 +21,7 @@ function init() {
     return integerToRoman ? 'Integer To Roman' : 'Roman To Integer';
   };
   
-  //TASK 7 Function
-  gtag('event', 'getModeTitle',{
-  
-    'MOdeTitle': getModeTitle
-  }); 
+
 
   // Now, the convertion operation does only perform the operation. 
   // Things we have extracted to this listener: 
